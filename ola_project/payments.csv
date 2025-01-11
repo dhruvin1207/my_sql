@@ -1,0 +1,4 @@
+payment_id,ride_id,amount,payment_method,payment_status,payment_date
+98,1,350.00,Cash,Completed,"2024-12-01 00:00:00"
+99,3,400.00,Online,Pending,"2025-01-06 00:00:00"
+100,2,375.00,Card,Failed,"2025-01-01 00:00:00"

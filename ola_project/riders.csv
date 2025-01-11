@@ -1,0 +1,4 @@
+ride_id,passenger_id,driver_id,start_location,end_location,ride_date,ride_status
+1,234,123,maninager,gota,"2024-12-01 00:00:00",Completed
+2,345,346,iskon,prahladnager,"2025-01-01 00:00:00",Cancelled
+3,567,123,VASTRAL,chandkedha,"2025-01-06 00:00:00","In Progress"
